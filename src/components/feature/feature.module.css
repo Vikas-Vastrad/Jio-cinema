@@ -1,0 +1,16 @@
+.features{
+    width: 100%;
+    background-color: #060707;
+    padding: 10px 2%;
+    display: flex;
+}
+
+.secTitle{
+    width: 100%;
+    background-color: #060707;
+    padding: 10px 2%;
+}
+
+.shows{
+    display: flex;
+}
